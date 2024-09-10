@@ -1,4 +1,11 @@
-### Hi there 👋
+<!---### Hi there 👋 --->
+
+<div>
+  <p>
+    Hi, I am Mubeen Kodvavi, Software Engineer based in Karachi, Pakistan.<br>
+    I am currently working as Software Dev. Engineer @<a href="https://securiti.ai/" target="_blank">Securiti.AI</a>
+  </p>
+</div>
 
 <!--
 **MubeenKodvavi/MubeenKodvavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
