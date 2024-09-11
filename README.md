@@ -7,6 +7,11 @@
   </p>
 </div>
 
+<div>
+  <h3>Education</h3>
+  <p>Bachelors of Science in Computer Science @<a href="http://khi.nu.edu.pk/" target="_blank">FAST-NUCES, Karachi</a>, Class of 2022</p>
+</div>
+
 <!--
 **MubeenKodvavi/MubeenKodvavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
