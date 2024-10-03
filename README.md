@@ -2,14 +2,18 @@
 
 <div>
   <p>
-    Hi, I am Mubeen Kodvavi, Software Engineer based in Karachi, Pakistan.<br>
-    I am currently working as Software Dev. Engineer @<a href="https://securiti.ai/" target="_blank">Securiti.AI</a>
+    Hi, I am Mubeen Kodvavi, Software Engineer based in Karachi, Pakistan<br>
   </p>
 </div>
 
 <div>
+  <h3>Work Experience</h3>
+  <p>Software Engineer @<a href="https://securiti.ai/" target="_blank">Securiti.AI</a>, July 2022 - Present</p>
+</div>
+
+<div>
   <h3>Education</h3>
-  <p>Bachelors of Science in Computer Science @<a href="http://khi.nu.edu.pk/" target="_blank">FAST-NUCES, Karachi</a>, Class of 2022</p>
+  <p>Bachelors of Science in Computer Science @<a href="http://khi.nu.edu.pk/">FAST-NUCES, Karachi</a>, Class of 2022</p>
 </div>
 
 <!--
