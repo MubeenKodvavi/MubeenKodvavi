@@ -1,14 +1,15 @@
-<!---### Hi there 👋 --->
+### Hi there 👋
 
 <div>
   <p>
-    Hi, I am Mubeen Kodvavi, Software Engineer based in Karachi, Pakistan<br>
+    I am Mubeen Kodvavi, Software Engineer based in Karachi, Pakistan<br>
   </p>
 </div>
 
 <div>
   <h3>Work Experience</h3>
   <p>Software Engineer @<a href="https://securiti.ai/" target="_blank">Securiti.AI</a>, July 2022 - Present</p>
+  <p>Backend Intern @<a href="https://securiti.ai/" target="_blank">Securiti.AI</a>, June 2021 - September 2021</p>
 </div>
 
 <div>
