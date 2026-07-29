@@ -9,7 +9,9 @@
 <div>
   <h3>Work Experience</h3>
   <p>Senior Software Dev Engineer @<a href="https://www.veeam.com/" target="_blank">Veeam Software</a>, January 2026 - Present</p>
-  <p>Senior Software Dev Engineer @<a href="https://securiti.ai/" target="_blank">Securiti.AI</a>, July 2022 - December 2025</p>
+  <p>Senior Software Dev Engineer @<a href="https://securiti.ai/" target="_blank">Securiti.AI</a>, October 2025 - December 2025</p>
+  <p>Software Dev Engineer @<a href="https://securiti.ai/" target="_blank">Securiti.AI</a>, October 2023 - September 2025</p>
+  <p>Associate Software Dev Engineer @<a href="https://securiti.ai/" target="_blank">Securiti.AI</a>, July 2022 - September 2023</p>
   <p>Backend Intern @<a href="https://securiti.ai/" target="_blank">Securiti.AI</a>, June 2021 - September 2021</p>
 </div>
 
